@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\techavidus_task1_API.props" />
+</Project>

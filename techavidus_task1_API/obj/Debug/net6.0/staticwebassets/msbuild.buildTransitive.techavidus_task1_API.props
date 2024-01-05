@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\techavidus_task1_API.props" />
+</Project>
